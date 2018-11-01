@@ -1,5 +1,5 @@
  <?php include_once('functions.php'); ?>
- <?php $project_name = "Test Style Guide"; ?>
+ <?php $project_name = "Test"; ?>
 <!DOCTYPE html>
 
 <head>
@@ -9,11 +9,18 @@
 <!-- Style Guide Boilerplate Styles -->
 <link rel="stylesheet" href="css/styleguide.css">
 <!-- <link rel="stylesheet" href="css/bootstrap.css"> -->
+
+
+<!-- Bootstrap 4.1.3 Files -->
+<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
 
+
+
 <!-- Replace below stylesheet with your own stylesheet -->
-<link rel="stylesheet" href="css/theme.css">
+<!-- <link rel="stylesheet" href="css/theme.css"> -->
 </head>
 <body   data-spy="scroll" data-target=".navbar-default" data-offset="60" >
 <!-- Fixed navbar -->
@@ -61,10 +68,10 @@
   <!--/.sg-pattern-styles-->
 </div>
 <!--/.sg-body-->
-<script src="http://code.jquery.com/jquery-1.11.0.min.js"></script>
-<script src="js/scrollspy.js"></script>
-<script src="js/dropdown.js"></script>
-<script src="js/sg-plugins.js"></script>
-<script src="js/sg-scripts.js"></script>
+<!-- <script src="http://code.jquery.com/jquery-1.11.0.min.js"></script> -->
+<!-- <script src="js/scrollspy.js"></script> -->
+<!-- <script src="js/dropdown.js"></script> -->
+<!-- <script src="js/sg-plugins.js"></script> -->
+<!-- <script src="js/sg-scripts.js"></script> -->
 </body>
 </html>
